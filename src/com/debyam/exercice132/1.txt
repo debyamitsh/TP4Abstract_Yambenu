@@ -1,0 +1,1 @@
+Car on ne serait que faire lorsque la méthode abstraite est exécutée sur un objet instance de cette classe
